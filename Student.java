@@ -13,5 +13,6 @@ public class Student {
          System.out.println("GOOD Evening");
          System.out.println("GOOD Evening");
         System.out.println("GOOD Morning");
+        System.out.println("Jai Hind");
     }
 }
